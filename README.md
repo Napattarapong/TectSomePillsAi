@@ -1,6 +1,7 @@
 # TectSomePillsAi
 <h2> ผลงานการเข้าร่วมแข่งขัน AMI Hackathon </h2>
-Brain Trained Fo CiRA CORE
+Ai ตรวจจับยาเม็ดที่ขาดหายไป
+Brain Trained & Flow For CiRA CORE
 
 Team : Mescolare il piede 
 
